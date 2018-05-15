@@ -1,0 +1,44 @@
+* {
+    background-color:lightgrey;   
+}
+
+.topwide {
+    background-color: green;
+    width: 800px;
+    height: 100px;
+    margin: 20px 10px 10px;
+}
+
+.sidebar {
+    background-color: blue;
+    width: 150px;
+    height: 250px;
+    margin: 10px;
+    float: left;
+    overflow: auto;
+}
+
+.contentarea {
+    background-color: red;
+    width: 630px;
+    height: 330px;
+    float: left;
+    margin: 10px;
+}
+
+.yellows {
+    background-color: yellow;
+    width: 190px;
+    height: 160px;
+    float: left;
+    margin: 15px 0px 15px 15px;
+}
+
+.purplebar {
+    background-color: purple;
+    width: 600px;
+    height: 100px;
+    margin: 0px 15px;
+    float:left;
+
+}
